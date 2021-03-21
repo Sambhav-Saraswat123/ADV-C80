@@ -1,0 +1,50 @@
+*, *::after, *::before{
+    font-family: Arial Rounded MT, Gotham Rounded, Arial;
+}
+#h3_1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#update{
+    background-color: lightgreen;
+    transition: linear;
+    border: none;
+    padding: 2px;
+    width: 70px;
+    height: 40px;
+    border-radius: 50px;
+    margin: 5px;
+}
+#update:hover{
+    background-color: lightseagreen;
+}
+#sorting{
+    background-color: lightgreen;
+    transition: linear;
+    border: none;
+    padding: 2px;
+    width: 70px;
+    height: 40px;
+    border-radius: 50px;
+    margin: 5px;
+}
+#sorting:hover{
+    background-color: lightseagreen;
+}
+#submit{
+    background-color: lightgreen;
+    transition: linear;
+    border: none;
+    padding: 2px;
+    width: 70px;
+    height: 40px;
+    border-radius: 50px; 
+    margin: 5px;
+}
+#submit:hover{
+    background-color: lightseagreen;
+}
+input[type="text"]{
+    padding: 4px;
+    border: 0.25px solid #000000;
+}
